@@ -135,7 +135,7 @@
 
 ## 시연 영상
 
-[![시연 영상 썸네일](Thumbnail.png)](demonstration.mp4)
+[![시연 영상 썸네일](Thumbnail.png)][(demonstration.mp4)](https://drive.google.com/file/d/1BSkAZ7DtB2pdOjGpSqBkVfu_29alnI3p/view?usp=sharing)
 
 > 클릭하면 영상으로 이동합니다.
 
