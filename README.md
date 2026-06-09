@@ -158,6 +158,6 @@
 
 ## 참고 자료
 - 「Markdown(마크다운) 문법 & 사용법 : 줄바꿈(line break), 개행, 엔터」, 나아가는 중, https://dlee0129.tistory.com/47#google_vignette (2026.06.09 검색)
-- 「md 파일에 이미지 삽입 및 사이즈 조절하기」, 노경환, https://kyounghwan01.github.io/blog/etc/md-img-insert-resize/#md-%E1%84%86%E1%85%AE%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%89%E1%85%A1%E1%86%B8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5 (2026.06.09 검색)
+- 「md 파일에 이미지 삽입 및 사이즈 조절하기」, 노경환, https://kyounghwan01.github.io/blog/etc/md-img-insert-resize/#google_vignette (2026.06.09 검색)
 
 ---
