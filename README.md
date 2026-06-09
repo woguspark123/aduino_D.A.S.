@@ -157,7 +157,7 @@
 ---
 
 ## 참고 자료
-- 「Markdown(마크다운) 문법 & 사용법 : 줄바꿈(line break), 개행, 엔터」, 나아가는 중, https://dlee0129.tistory.com/ (2026.06.09 검색)
+- 「Markdown(마크다운) 문법 & 사용법 : 줄바꿈(line break), 개행, 엔터」, 나아가는 중, https://dlee0129.tistory.com/47 (2026.06.09 검색)
 - 「md 파일에 이미지 삽입 및 사이즈 조절하기」, 노경환, https://kyounghwan01.github.io/blog/etc/md-img-insert-resize/ (2026.06.09 검색)
 
 ---
