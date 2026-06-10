@@ -55,7 +55,7 @@
 ### 소프트웨어
 | 항목 | 버전 |
 |------|------|
-| AI 모델 | mediapipe 0.10.14 / OpenCV(4.13.0)|
+| AI 모델 | mediapipe 0.10.14 / OpenCV 4.13.0|
 | 언어 | Python 3.11 (MediaPipe) / C (Arduino) |
 | 아두이노 IDE | v2.3.9 |
 
