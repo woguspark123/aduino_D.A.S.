@@ -53,7 +53,7 @@
 ## 사용 기술 및 부품
 
 ### 소프트웨어
-| 항목 | 내용 |
+| 항목 | 버전 |
 |------|------|
 | AI 모델 | mediapipe 0.10.14 / OpenCV|
 | 언어 | Python 3.11 (MediaPipe) / C (Arduino) |
