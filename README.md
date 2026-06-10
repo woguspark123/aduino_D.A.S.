@@ -127,9 +127,9 @@
 
 | 인식 화면 | 아두이노 동작 |
 |-----------|--------------|
-| ![화면 Ready 상태](images/result_detection.png) | ![아두이노 Ready 상태](adu_rdy.jpg) |
-| ![화면 Alert 상태](images/result_detection.png) | ![아두이노 Alert 상태](adu_alt.jpg) |
-| ![화면 Emergency 상태](images/result_detection.png) | ![아두이노 Emergency 상태](adu_emg.jpg) |
+| ![화면 Ready 상태](scr_rdy.png) | ![아두이노 Ready 상태](adu_rdy.jpg) |
+| ![화면 Alert 상태](scr_alt.png) | ![아두이노 Alert 상태](adu_alt.jpg) |
+| ![화면 Emergency 상태](scr_emg.png) | ![아두이노 Emergency 상태](adu_emg.jpg) |
 
 ---
 
