@@ -97,7 +97,7 @@
 ### 1. AI 모델 (MediaPipe)
 
 - **모델 선택 이유**: 모델에 눈 주위에 눈의 모양을 나타내는 점(랜드마크)이 있다. 이 점으로 감긴 눈의 크기를 측정하기가 쉽고 눈 크기 계산이 빠르다.  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;또한, 다수의 데이터 사전 학습 없이도 프로그램 실행이 가능하다.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;또한, 다수의 데이터 사전 학습 없이도 프로그램 실행이 가능하다.
 - **초기 데이터 수집**: 준비 상태에서 택트 스위치 클릭으로 눈크기를 측정한다.
 
 ### 2. MobileNetV2와의 차이점
